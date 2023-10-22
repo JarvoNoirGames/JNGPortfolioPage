@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf3ebfae.css",
+    "main.js": "/static/js/main.735aa01a.js",
+    "static/js/787.a3dec67d.chunk.js": "/static/js/787.a3dec67d.chunk.js",
+    "static/media/NS2.png": "/static/media/NS2.d8151e6d5fe323544b70.png",
+    "static/media/Warhouse.png": "/static/media/Warhouse.c74e7767ccba4794f529.png",
+    "static/media/HS.png": "/static/media/HS.1ee760c7807f4597554a.png",
+    "static/media/TSUTHTitle.png": "/static/media/TSUTHTitle.8c5bf334b01e5dc368e9.png",
+    "static/media/jng-logo.png": "/static/media/jng-logo.ba1c0d6c07f867d7cfcb.png",
+    "static/media/Unreal_Engine_Horiz_White.png": "/static/media/Unreal_Engine_Horiz_White.76eb57baa3f3307cc321.png",
+    "static/media/MH.jpg": "/static/media/MH.08c55f99d1d255925e61.jpg",
+    "index.html": "/index.html",
+    "main.bf3ebfae.css.map": "/static/css/main.bf3ebfae.css.map",
+    "main.735aa01a.js.map": "/static/js/main.735aa01a.js.map",
+    "787.a3dec67d.chunk.js.map": "/static/js/787.a3dec67d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf3ebfae.css",
+    "static/js/main.735aa01a.js"
+  ]
+}
